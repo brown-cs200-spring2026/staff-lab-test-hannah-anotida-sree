@@ -23,8 +23,7 @@ public class Homework1CTest {
                 new HorseData(new Horse("Somethingroyal", "black"), "black","Imperatrice", "Princequillo"),
                 new HorseData(new Horse("Bold Ruler", "black"), "black","Miss Disco", "Nasrullah"),
                 new HorseData(new Horse("Prince Rose", "black"), "black","Indolence", "Rose Prince"),
-                new HorseData(new Horse("Imperatrice", "black"), "black","Caruso", "Cinquepace"),
-                new HorseData(new Horse("Nearco", "black"), "black","Nogara", "Pharos"));
+
 
         //TODO: initialize more data to test on
     }
